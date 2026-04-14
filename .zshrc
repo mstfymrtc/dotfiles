@@ -84,7 +84,6 @@ export PATH="$PATH:$HOME/.rvm/bin"
 alias cl="clear"
 alias cls="cl&&ls"
 alias temp='cd $(mktemp -d)'
-alias pa="cd ~/product-ads"
 alias docker="podman"
 alias sonarqube="/opt/sonarqube/bin/macosx-universal-64/sonar.sh"
 

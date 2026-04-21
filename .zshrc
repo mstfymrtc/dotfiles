@@ -8,7 +8,7 @@ export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"
 export PATH=/opt/apache-maven-3.8.1/bin:$PATH
 export PATH="$HOME/.local/bin:$PATH"
 
-export JAVA_HOME=$(/usr/libexec/java_home -v 11.0.17)
+# export JAVA_HOME=$(/usr/libexec/java_home -v 11.0.17)  # replaced by sdkman
 export GOPROXY=https://proxy.golang.org,direct
 
 # ==============================================================================
